@@ -1,2 +1,2 @@
-# FNT-BACKEND-b
-This is the back-end part of Forgery News Tracker
+# FNT-BACKEND
+This is the backend of Forgery News Tracker
